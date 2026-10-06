@@ -11,7 +11,7 @@ Tutorial source: https://youtube.com/playlist?list=PLOmfCZ_bt8b8&si=QwYlHWGYV0R9
 
 ### Main Page
 Home page of the Flask web application.
-<img width="1907" height="912" alt="image" src="https://github.com/user-attachments/assets/f5f29f8c-ef01-44ce-a4e7-1f4668429aa0" />
+<img width="1917" height="912" alt="Screenshot 2026-10-06 121849" src="https://github.com/user-attachments/assets/d6caa20a-fc10-4241-a709-da556a12036f" />
 
 ### Registered Students Page
 Displays registered student records and provides options to edit or delete student information.
